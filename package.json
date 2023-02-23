@@ -1,0 +1,15 @@
+{
+  "name": "nuevosmundosporexplorar",
+  "version": "1.0.0",
+  "description": "pasar css a sass",
+  "main": "index.js",
+  "scripts": {
+   "compile:sass":"node-sass main.scss styles.css --watch"
+  },
+  "author": "gabriel",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^8.0.0",
+    "nodemon": "^2.0.20"
+  }
+}
