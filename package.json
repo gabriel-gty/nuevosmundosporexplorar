@@ -1,7 +1,7 @@
 {
   "name": "nuevosmundosporexplorar",
   "version": "1.0.0",
-  "description": "pasar css a sass",
+  "description": "reseñas de mis libros favoritos",
   "main": "index.js",
   "scripts": {
    "compile:sass":"node-sass main.scss styles.css --watch"
